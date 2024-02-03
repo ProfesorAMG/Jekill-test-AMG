@@ -31,7 +31,8 @@ twitter_username: alfonsomezquita
 github_username:  ProfesoAMG
 
 # Build settings
-theme: minima
+theme: minima  #Tema por defecto tiene todos los elementos necesarios #blog, page, default, etc. 
+#theme: architec Solo tiene el default pot lo que no nos vale para lo que queremos 
 plugins:
   - jekyll-feed
 
