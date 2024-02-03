@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: plantillablog #home
 title: Blog
 permalink: /blog/
 ---
